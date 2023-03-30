@@ -1,5 +1,5 @@
 # About Me:
-I'm Danilo Macedo Back - End Developer<br>Python Enthusiast<br>Current CS Degree<br>
+I'm Danilo Macedo Back - End Developer<br>Python Enthusiast<br>Currently studying Computer Science<br>
 
 
 ## 🌐 Socials:
