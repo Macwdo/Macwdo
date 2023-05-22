@@ -11,8 +11,4 @@ I'm Danilo Macedo Back - End Developer<br>Python Enthusiast<br>Currently studyin
 ![](https://github-readme-stats.vercel.app/api?username=Macwdo&theme=city_light&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Macwdo&theme=city_light&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Macwdo&theme=city_light&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Macwdo&icon=6&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
