@@ -1,5 +1,6 @@
 # About Me:
-I'm Danilo Macedo Back - End Developer<br>Python Enthusiast<br>Currently studying Computer Science<br>
+Back end software engineer - C# Python.
+
 
 
 ## 🌐 Socials:
