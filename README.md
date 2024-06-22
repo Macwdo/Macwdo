@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Youshop**
 
-- 🌱 I’m currently learning **React/Next.js**
+- 🌱 I’m currently learning **Vue/Vuetify*
 
 - 📝 I regularly write articles on [Pending...](Pending...)
 
