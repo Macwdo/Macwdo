@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danilo Macedo</h1>
 <h3 align="center">I'm a Brazillian Back-end developer working with Python, Django and FastAPI.</h3>
 
-- 🔭 I’m currently working on **Youshop**
+- 🔭 I’m currently working on **Rhei**
 
 - 🌱 I’m currently learning **React/Next.js**
 
